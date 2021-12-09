@@ -1,38 +1,64 @@
-.App {
-  text-align: center;
+.App{
+  padding: 40px 200px;
+  font-size: 13px !important;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.button, .btn{
+  font-size: 13px !important;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.txt-small{
+  font-size: 12px !important;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+tr td:nth-child(3n){
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  align-items: center;
+}
+
+.label{
+  padding: 4px 8px;
+  border-radius: 4px;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.label-hard{
+  background-color: rgb(177, 8, 8);
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.label-normal{
+  background-color: rgb(218, 145, 10);
+}
+
+.label-easy{
+  background-color: rgb(6, 148, 6);
+}
+
+table tr th:not(:nth-last-child()){
+  text-align: center;
+}
+
+.icon-check{
+  margin: auto auto;
+  display: flex;
+  width: 20px;
+  height: 20px;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(6, 148, 6);
+  border-radius: 50%;
+  color: white;
+}
+
+.icon-times{
+  margin: auto auto;
+  display: flex;
+  width: 20px;
+  height: 20px;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(177, 8, 8);
+  border-radius: 50%;
+  color: white;
 }
