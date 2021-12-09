@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sstatsuya/task/static/css/main.331593cf.chunk.css",
+    "main.js": "/sstatsuya/task/static/js/main.38e7f63d.chunk.js",
+    "main.js.map": "/sstatsuya/task/static/js/main.38e7f63d.chunk.js.map",
+    "runtime-main.js": "/sstatsuya/task/static/js/runtime-main.5b708a6c.js",
+    "runtime-main.js.map": "/sstatsuya/task/static/js/runtime-main.5b708a6c.js.map",
+    "static/css/2.1cee59f9.chunk.css": "/sstatsuya/task/static/css/2.1cee59f9.chunk.css",
+    "static/js/2.7314a1d1.chunk.js": "/sstatsuya/task/static/js/2.7314a1d1.chunk.js",
+    "static/js/2.7314a1d1.chunk.js.map": "/sstatsuya/task/static/js/2.7314a1d1.chunk.js.map",
+    "static/js/3.a6dc2f1b.chunk.js": "/sstatsuya/task/static/js/3.a6dc2f1b.chunk.js",
+    "static/js/3.a6dc2f1b.chunk.js.map": "/sstatsuya/task/static/js/3.a6dc2f1b.chunk.js.map",
+    "index.html": "/sstatsuya/task/index.html",
+    "static/css/2.1cee59f9.chunk.css.map": "/sstatsuya/task/static/css/2.1cee59f9.chunk.css.map",
+    "static/css/main.331593cf.chunk.css.map": "/sstatsuya/task/static/css/main.331593cf.chunk.css.map",
+    "static/js/2.7314a1d1.chunk.js.LICENSE.txt": "/sstatsuya/task/static/js/2.7314a1d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b708a6c.js",
+    "static/css/2.1cee59f9.chunk.css",
+    "static/js/2.7314a1d1.chunk.js",
+    "static/css/main.331593cf.chunk.css",
+    "static/js/main.38e7f63d.chunk.js"
+  ]
+}
